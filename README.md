@@ -1,4 +1,4 @@
-# DNA-DSP: Integrated DNA Data Storage Simulation Platform
+# DNA-DSP: Integrated DNA Data Storage Platform for Primers Design, Codec, Synthesis and Sequencing Simulation and Method Evaluation
 The code Implementation of the paper "DNA-DSP: Integrated DNA Data Storage Simulation Platform".
 
 ## Implementation
